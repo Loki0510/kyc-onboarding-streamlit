@@ -1,0 +1,8 @@
+streamlit>=1.22
+Pillow
+python-multipart
+pytesseract    # optional: for local OCR; requires Tesseract installed separately
+streamlit-drawable-canvas>=0.8.0
+face-recognition==1.3.0  # optional - only if you want local face matching; requires dlib and heavy deps
+opencv-python
+numpy
